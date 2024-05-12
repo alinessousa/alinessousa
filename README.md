@@ -1,16 +1,14 @@
-### Hi there 👋
+import Desenvolvedor from "alinessousa";
 
-<!--
-**alinessousa/alinessousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedor {
+  nome = "Aline Santana";
+  area = "Front end Web";
+  trabalho = "Bichinhos da TI - Front end developer volunteer";
+  local = "Brazil";
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Desenvolvedor {
+  linguagens = ["Javascript, Typescript, Ruby soon"];
+  bibliotecas = ["Bootstrap, Tailwind CSS"];
+  frameworks = ["React, Vue soon, Nodejs soon"];
+}
