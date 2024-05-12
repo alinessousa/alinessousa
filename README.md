@@ -1,3 +1,4 @@
+```js
 import Desenvolvedor from "alinessousa";
 
 class SobreMim extends Desenvolvedor {
@@ -12,3 +13,5 @@ class Skills extends Desenvolvedor {
   bibliotecas = ["Bootstrap, Tailwind CSS"];
   frameworks = ["React, Vue soon, Nodejs soon"];
 }
+```
+
