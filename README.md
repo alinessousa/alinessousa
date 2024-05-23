@@ -1,17 +1,7 @@
-```js
-import Desenvolvedor from "alinessousa";
+### Hey, seja bem-vindo(a) 👋
 
-class SobreMim extends Desenvolvedor {
-  nome = "Aline Santana";
-  area = "Front end Web";
-  trabalho = "Bichinhos da TI - Front end developer volunteer";
-  local = "Brazil";
-}
+#### Uma desenvolvedora PHP com paixão em Ruby/Ruby on Rails 
+Participo [he4rtsDevelopers](https://heartdevs.com/); [Bichinhos da TI](https://discord.gg/PVv3ptZq)<br>
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Javascript, Typescript, Ruby soon"];
-  bibliotecas = ["Bootstrap, Tailwind CSS"];
-  frameworks = ["React, Vue soon, Nodejs soon"];
-}
-```
-
+- ⚙️ I use daily: `.php`, `.ruby`, `.html`, `.css`, `.figma`, `.VScode`, 
+- 💬 `ping` me about **algoritmo**, **ruby**, **laravel**, **development**, **design**
